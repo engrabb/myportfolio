@@ -2,7 +2,7 @@ React project to learn and understand the language.
 
 The portfolio is a work in progress. Will be expanded further to develop my design skills
 
-It is deployed on github and accessable. 
+It is deployed on github and accessable via "https://engrabb.github.io/myportfolio/".
 
 # Getting Started with Create React App
 
