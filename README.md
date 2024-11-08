@@ -1,3 +1,9 @@
+React project to learn and understand the language.
+
+The portfolio is a work in progress. Will be expanded further to develop my design skills
+
+It is deployed on github and accessable. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
